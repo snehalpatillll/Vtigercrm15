@@ -1,0 +1,30 @@
+import java.util.Scanner;
+class pen
+{
+  String name;n
+  double price;
+static 
+{
+    System.out.println("enetr a name and price");
+}
+{
+   System.out.println("enter a name and price");
+}
+
+public pen(String s1,double b1);
+{
+   name=s1;
+   price=b1;
+}
+public static void main(String[]args)
+{
+  Scanner sc=new Scanner(System.in);
+  pen p1=new pen(sc.next(),sc.nextDouble());
+  pen p2=new pen(sc.next(),sc.nextDouble());
+  pen p3=new pen(sc.next(),sc.nextDouble());
+  pen p4=new pen(sc.next(),sc.nextDouble());
+  pen p5=new pen(sc.next(),sc.nextDouble());
+
+}
+}
+
