@@ -21,6 +21,26 @@
 <p>My  location is pune</p>
 <p>My  location is pune</p
 ><p>My  location is pune</p>
+
+driver .manage().window().getsize();
+driver .manage().window().getsize();
+driver .manage().window().getsize();
+driver .manage().window().getsize();
+driver .manage().window().getsize();
+driver .manage().window().getsize();
+
+
+
+
+
+
+
+
+
+
+
+
+
 </html1>
 <html>
 <p>My  location is pune</p>
